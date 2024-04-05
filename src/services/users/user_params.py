@@ -15,5 +15,4 @@ class LoginUser(BaseModel):
     email: str
     password: str
     auth_scope: str
-    parent_token: str
   
